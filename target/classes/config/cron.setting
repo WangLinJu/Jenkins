@@ -1,0 +1,3 @@
+# 我是注释
+[com.itheilv.mail.test]
+SmallTest.testCron = 0/1 * * * * ?
